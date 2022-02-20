@@ -3,6 +3,15 @@
 [![Discord](https://img.shields.io/discord/778301671302365256?logo=Discord)](https://discord.gg/n27zjVTbDz)
 [![Java CI with Maven on Push](https://github.com/knowm/XChange/actions/workflows/maven.yml/badge.svg?event=status)](https://github.com/knowm/XChange/actions/workflows/maven.yml)
 
+
+-------------------------
+### Run Google Colab
+
+https://colab.research.google.com/drive/1OShIMVcFZ_khsUIBOIV1lzrqAGo1gfm_?usp=sharing
+
+-------------------------
+
+
 XChange is a Java library providing a simple and consistent API for interacting with 60+ Bitcoin and other crypto currency exchanges, providing a consistent interface for trading and accessing market data.
 
 ## Important!
